@@ -4,5 +4,5 @@ modified by F113X for different Fader arrangements such as 2ch, 4ch, 6ch, 8ch, e
 only the pcb file of 6ch has been made for now, and nothing has been tested.\
 contains some smt parts, and not tested.\
 Use at your own risk.\
-Original README.md File in: [readme-original.md](readme-original.md)
+Original README.md File in: ![readme-original.md](readme-original.md)
 
